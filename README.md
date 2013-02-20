@@ -1,4 +1,4 @@
-###BibTeX support for pygments
+### BibTeX support for pygments
 
 I wanted to be able to highlight [BibTeX][1] files using [pygments][2].
 
