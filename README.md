@@ -6,7 +6,7 @@ Based loosely on the [puppet-pygments-lexer][3].
 
 #### Installation
 
-    $ pip install bibtex-pygments-parser
+    $ pip install bibtex-pygments-lexer
 
 Or, to install straight from source:
 
